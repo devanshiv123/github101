@@ -1,10 +1,5 @@
 # Introduction
-
 I am Devanshi Verma.
-
-
 # Hobbies
-  - Programming
-
-
+- Programming
 ## My favourite smile is :flushed:
